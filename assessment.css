@@ -1,0 +1,19 @@
+body{
+    color: #fdffff;
+    width:500px;
+    margin-right:auto;
+    margin-left:auto;
+    background: url(/Users/aritak77/workspace/test.jpg) center center / cover no-repeat fixed; 
+}
+button{
+    padding: 5px 20px;
+    background-color: #fdffff;
+    border-style: none;
+}
+input{
+    height: 20px;
+}
+.border{
+    border-left:solid 5px #fdffff;
+    border-bottom:solid 1px #fdffff;;
+}
